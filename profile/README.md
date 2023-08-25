@@ -1,11 +1,13 @@
-## Introduction
+## Overview
 
 CircuitDAO is an on-chain collateralized stablecoin protocol built on [Chia](https://www.chia.net).
 
 The protcol is permissionless and allows anyone to borrow Bytecash (BYC), a stablecoin pegged 1:1 to the US Dollar, by locking up XCH in a non-custodial smart coin. For further details, see the [litepaper](https://medium.com/@circuitdao/circuitdao-an-on-chain-collateralized-stablecoin-protocol-8991e3d5f01d). Testnet is expected to launch in Q4 2023.
 
 In addition to the core protocol, CircuitDAO also releases open-source tools for the Chia community:
-* [`python-chianode`](https://github.com/circuitdao/python-chianode): Python wrapper for Chia full node APIs, including the [official RPCs](https://docs.chia.net/full-node-rpc) and [Mojonode](https://mojonode.com).
+* [Balance checker](https://balance.circuitdao.com): Online tool to check which CATs an address holds, and their respective balances
+* [`python-chianode`](https://github.com/circuitdao/python-chianode): Python wrapper for Chia full node APIs, including the [official RPCs](https://docs.chia.net/full-node-rpc) and [Mojonode](https://mojonode.com)
+* [`python-okx-async`](https://github.com/circuitdao/python-okx-aysync): Python wrapper with async support for the [OKX v5 API](https://www.okx.com/docs-v5)
 
 If you would like to contribute, please reach out to us.
 

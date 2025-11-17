@@ -15,6 +15,13 @@ Circuit operates as a non-custodial Collateralized Debt Position (CDP) protocol.
 
 Circuit is a DAO managed on-chain via the **CRT** governance token. Token holders vote to adjust critical protocol parameters, ensuring the system remains permissionless and community-driven.
 
+### Security & Bug Bounty
+
+Circuit prioritizes protocol security and encourages responsible disclosure.
+
+* **Bug Bounty:** We offer competitive rewards for critical findings via [Cantina](https://cantina.xyz/code/8f671963-4313-4ac3-aed9-3186a240b75a/overview). Scope includes Smart Contracts (Chialisp) and Core Protocol Logic.
+* **Reporting:** For issues outside the bounty scope or general security inquiries, please email **security@circuitdao.com**.
+
 ### Status
 * **Current State:** Beta (Testnet11)
 * **Audits:** Fully audited by leading security firms.
@@ -24,7 +31,5 @@ Circuit is a DAO managed on-chain via the **CRT** governance token. Token holder
 ### Links
 * [**Website**](https://circuitdao.com)
 * [**Documentation**](https://docs.circuitdao.com)
-* [**Litepaper**](https://circuitdao.com/litepaper)
-* [**Discord**](https://discord.gg/circuitdao)
-
-(Updated Nov 2025)
+* [**Litepaper**](https://medium.com/@circuitdao/circuitdao-an-on-chain-collateralized-stablecoin-protocol-8991e3d5f01d)
+* [**Discord**](https://discord.gg/knHqg2nXca)

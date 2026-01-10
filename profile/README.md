@@ -2,13 +2,13 @@
 
 **A decentralized, asset-backed stablecoin platform built on the Chia blockchain.**
 
-Circuit operates as a non-custodial Collateralized Debt Position (CDP) protocol. It enables users to leverage XCH holdings to mint **Bytecash (BYC)**—a USD-pegged stablecoin—while retaining exposure to the underlying asset.
+Circuit is a non-custodial Collateralized Debt Position (CDP) protocol. It enables users to leverage XCH holdings to mint **Bytecash (BYC)**—a USD-pegged stablecoin—while retaining exposure to the underlying asset.
 
 ### Core Functionality
 
-* **Mint & Borrow:** Deposit XCH as collateral (up to 66% LTV) to mint Bytecash (BYC).
+* **Mint & Borrow:** Deposit XCH as collateral (up to 60% LTV) to borrow Bytecash (BYC).
 * **Earn Yield:** Deposit BYC into the liquidity pool to earn interest derived from borrower fees.
-* **Liquidation Protection:** Automated liquidation mechanisms ensure protocol solvency during market volatility.
+* **Undercollateralization Protection:** Automated liquidation mechanisms ensure protocol solvency during market volatility.
 * **Non-Custodial:** Users retain full control of their funds via smart contracts (Chialisp).
 
 ### Governance
@@ -19,12 +19,12 @@ Circuit is a DAO managed on-chain via the **CRT** governance token. Token holder
 
 Circuit prioritizes protocol security and encourages responsible disclosure.
 
-* **Bug Bounty:** We offer competitive rewards for critical findings via [Cantina](https://cantina.xyz/code/8f671963-4313-4ac3-aed9-3186a240b75a/overview). Scope includes Smart Contracts (Chialisp) and Core Protocol Logic.
+* **Bug Bounty:** We offer competitive rewards for critical findings via [Cantina](https://cantina.xyz/code/8f671963-4313-4ac3-aed9-3186a240b75a). Scope includes Smart Contracts (Chialisp) and Core Protocol Logic.
 * **Reporting:** For issues outside the bounty scope or general security inquiries, please email **security@circuitdao.com**.
 
 ### Status
-* **Current State:** Beta (Testnet11)
-* **Audits:** Fully audited by leading security firms.
+* **Current Status:** Mainnet beta (TVL cap & reduced veto periods and implementation delays apply)
+* **Audits:** Audited by leading security firms. See the [puzzles repo](https://github.com/circuitdao/puzzles?tab=readme-ov-file#circuit-puzzles) for more info.
 
 ---
 
